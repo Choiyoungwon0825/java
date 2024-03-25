@@ -40,10 +40,10 @@ class for문 {
 }
 
 class forEach문 {
-	void averageScore(int[] b) {
+	void averageScore(int... b) {
 		double sum = 0;
 		for (int i : b) {
-			sum += b[i];
+			sum += i;
 		}
 		System.out.println("--------------------");
 		System.out.println("점수 총 값 : " + sum);
