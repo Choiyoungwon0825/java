@@ -17,7 +17,7 @@ public class 문자열과문자열합연산 {
 		System.out.println(1 + "안녕" + 2);
 		System.out.println("안녕" + 1 + 2);
 		System.out.println(1 + 2 + "안녕");
-		
+
 	}
 
 }

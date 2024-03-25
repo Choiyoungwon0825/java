@@ -52,10 +52,10 @@ public class 메소드String1 {
 		}
 		System.out.println("-------------------------");
 
-		int[][] b = { { 1, 3, 5 }, { 7, 9 } };
-		// int[][] b = new int[2][];
-		// b[0][] = {1,3,5};
-		// b[1][] = {7,9};
+		// int[][] b = { { 1, 3, 5 }, { 7, 9 } };
+		int[][] b = new int[2][];
+		b[0] = new int[] { 1, 3, 5 };
+		b[1] = new int[] { 7, 9 };
 		System.out.println(b[0][0] + " " + b[0][1] + " " + b[0][2]);
 		System.out.println(b[1][0] + " " + b[1][1]);
 		System.out.println("-----------------------------------");
