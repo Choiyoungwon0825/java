@@ -16,6 +16,7 @@ public class classQ5 {
 
 		forEach문 forEach문 = new forEach문();
 
+		System.out.println();
 		System.out.println("forEach문");
 		forEach문.averageScore(1, 2, 3, 4);
 

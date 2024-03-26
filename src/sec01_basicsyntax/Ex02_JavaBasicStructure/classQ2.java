@@ -20,7 +20,7 @@ public class classQ2 {
 		System.out.println(문제.arraySum(data1));
 		System.out.println(문제.arraySum(data2));
 		System.out.println(문제.arraySum(new int[] { 1, 2, 3 }));
-		System.out.println(문제.arraySum({ 1, 2, 3 }));// 배열 선언을 해주지 않아서 ㅎㅎ 오류가 발생한다
+		//System.out.println(문제.arraySum({ 1, 2, 3 }));// 배열 선언을 해주지 않아서 ㅎㅎ 오류가 발생한다
 
 	}
 

@@ -1,6 +1,6 @@
 package sec01_basicsyntax.Ex02_JavaBasicStructure;
 
-class B {
+class B3 {
 	int m = 3; // 필드
 	int n = 4; // 필드
 
@@ -22,7 +22,7 @@ public class 필드와지역변수구분 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		B a = new B();
+		B3 a = new B3();
 		// 필드값 출력
 		System.out.println(a.m);
 		a.work1();
