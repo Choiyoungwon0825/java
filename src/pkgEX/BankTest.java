@@ -1,7 +1,5 @@
 package pkgEX;
 
-import sec01_basicsyntax.Ex02_JavaBasicStructure.this키워드예시;
-
 //은행 계좌 클래스 : BankAccount 클래스 
 class BankAccount {
 	// 필드(멤버 변수)

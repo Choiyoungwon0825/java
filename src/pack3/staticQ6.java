@@ -8,8 +8,6 @@ class Q6 {
 
 }
 
-
-
 public class staticQ6 {
 
 	public static void main(String[] args) {

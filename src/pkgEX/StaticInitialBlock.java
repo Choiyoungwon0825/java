@@ -20,6 +20,16 @@ public class StaticInitialBlock {
 		// TODO Auto-generated method stub
 		System.out.println(C.b);
 
+		Food f1 = new Food();
+		new Food();
+
+	}
+
+}
+
+class Food {
+	Food() {
+		System.out.println("김치찌개");
 	}
 
 }
