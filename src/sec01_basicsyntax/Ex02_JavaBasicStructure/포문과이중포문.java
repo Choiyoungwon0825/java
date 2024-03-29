@@ -2,7 +2,7 @@ package sec01_basicsyntax.Ex02_JavaBasicStructure;
 
 import org.w3c.dom.ranges.DocumentRange;
 
-public class for랑이중for문 {
+public class 포문과이중포문 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
