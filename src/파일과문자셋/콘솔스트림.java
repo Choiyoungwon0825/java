@@ -16,7 +16,7 @@ public class 콘솔스트림 {
 
 		int offset = 0;
 		String str = new String(ba, offset, count, Charset.forName("MS949"));
-		System.out.println);
+		System.out.println();
 		System.out.println(count);
 
 	}
